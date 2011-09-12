@@ -1,0 +1,4 @@
+This program converts a *.BMP file to other *.BMP file made of some pictures(also *.BMP format) from specified directory.
+
+In this repository you can find files example1.png (input) and example1_output.png.
+They are example input and output, converted to png format(for smaller size).
